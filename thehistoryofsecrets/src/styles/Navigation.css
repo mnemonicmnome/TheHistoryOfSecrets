@@ -1,0 +1,18 @@
+.Navigation {
+    background-color: #abdbe3;
+}
+
+.HomeButton{
+    break-before: avoid;
+    break-after: avoid;
+}
+
+.DropdownRoot{
+    display: inline;
+    width: 20%;
+}
+
+.DropdownList{
+    width: 20%;
+    list-style: none;
+}
